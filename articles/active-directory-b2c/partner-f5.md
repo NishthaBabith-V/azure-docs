@@ -1,7 +1,7 @@
 ---
-title: Tutorial to configure Azure Active Directory B2C with F5 BIG-IP  
+title: Tutorial to extend Azure Active Directory B2C services using F5 BIG-IP  
 titleSuffix: Azure AD B2C
-description: Learn how to integrate Azure AD B2C authentication with F5 BIG-IP for secure hybrid access 
+description: Learn how to configure Azure AD B2C authentication with F5 BIG-IP for secure hybrid access 
 author: gargi-sinha
 ms.author: gasinh
 manager: martinco
@@ -12,9 +12,9 @@ ms.topic: how-to
 ms.date: 10/15/2021
 ---
 
-# Tutorial: Extend Azure Active Directory B2C to protect on-premises applications using F5 BIG-IP
+# Tutorial: Extend Azure Active Directory B2C using F5 BIG-IP
 
-In this sample tutorial, learn how to integrate Azure Active Directory (Azure AD) B2C with [F5 BIG-IP Access Policy Manager (APM)](https://www.f5.com/services/resources/white-papers/easily-configure-secure-access-to-all-your-applications-via-azure-active-directory). This tutorial demonstrates how legacy applications can be securely exposed to the internet through BIG-IP security combined with Azure AD B2C pre-authentication, Conditional Access (CA), and Single sign-on (SSO).
+In this sample tutorial, learn how to configure Azure Active Directory (Azure AD) B2C with [F5 BIG-IP Access Policy Manager (APM)](https://www.f5.com/services/resources/white-papers/easily-configure-secure-access-to-all-your-applications-via-azure-active-directory). This tutorial demonstrates how legacy applications can be securely exposed to the internet through BIG-IP security combined with Azure AD B2C pre-authentication, Conditional Access (CA), and Single sign-on (SSO).
 
 F5 Inc. focus on the delivery, security, performance, and availability of connected services, including the availability of computing, storage, and network resources. It provides hardware, modularized software, and cloud-ready virtual appliance solutions.
 
